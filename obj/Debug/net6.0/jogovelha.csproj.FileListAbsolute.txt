@@ -1,0 +1,14 @@
+C:\Users\samuk\OneDrive\Área de Trabalho\Skarlet\academia.net\jogovelha\bin\Debug\net6.0\jogovelha.exe
+C:\Users\samuk\OneDrive\Área de Trabalho\Skarlet\academia.net\jogovelha\bin\Debug\net6.0\jogovelha.deps.json
+C:\Users\samuk\OneDrive\Área de Trabalho\Skarlet\academia.net\jogovelha\bin\Debug\net6.0\jogovelha.runtimeconfig.json
+C:\Users\samuk\OneDrive\Área de Trabalho\Skarlet\academia.net\jogovelha\bin\Debug\net6.0\jogovelha.dll
+C:\Users\samuk\OneDrive\Área de Trabalho\Skarlet\academia.net\jogovelha\bin\Debug\net6.0\jogovelha.pdb
+C:\Users\samuk\OneDrive\Área de Trabalho\Skarlet\academia.net\jogovelha\obj\Debug\net6.0\jogovelha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samuk\OneDrive\Área de Trabalho\Skarlet\academia.net\jogovelha\obj\Debug\net6.0\jogovelha.AssemblyInfoInputs.cache
+C:\Users\samuk\OneDrive\Área de Trabalho\Skarlet\academia.net\jogovelha\obj\Debug\net6.0\jogovelha.AssemblyInfo.cs
+C:\Users\samuk\OneDrive\Área de Trabalho\Skarlet\academia.net\jogovelha\obj\Debug\net6.0\jogovelha.csproj.CoreCompileInputs.cache
+C:\Users\samuk\OneDrive\Área de Trabalho\Skarlet\academia.net\jogovelha\obj\Debug\net6.0\jogovelha.dll
+C:\Users\samuk\OneDrive\Área de Trabalho\Skarlet\academia.net\jogovelha\obj\Debug\net6.0\refint\jogovelha.dll
+C:\Users\samuk\OneDrive\Área de Trabalho\Skarlet\academia.net\jogovelha\obj\Debug\net6.0\jogovelha.pdb
+C:\Users\samuk\OneDrive\Área de Trabalho\Skarlet\academia.net\jogovelha\obj\Debug\net6.0\jogovelha.genruntimeconfig.cache
+C:\Users\samuk\OneDrive\Área de Trabalho\Skarlet\academia.net\jogovelha\obj\Debug\net6.0\ref\jogovelha.dll
